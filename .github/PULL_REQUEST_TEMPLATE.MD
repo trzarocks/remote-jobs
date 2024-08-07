@@ -21,12 +21,12 @@ DO NOT DELETE ANYTHING IN THIS COMMENT.
 -->
 
 * [ ] This PR contains housekeeping only (URL edits, copy changes etc) - **if this is checked, delete other lines that don't apply**
-* [ ] You are an employee of the company mentioned and confirm all included details are correct.
-* [ ] You know your alphabet - company is listed in alphabetical order in the README.md file.
-* [ ] The company directly hires employees. ** No bootcamps / freelance sites / etc**
-* [ ] The company hires remote employees, or positions are available to remote workers and are clearly illustrated as such.
-* [ ] A [company profile](/company-profiles/example.md) is included - This is __required__ for new additions.
-* [ ] An entry has been added or edited within the [readme.md file](../../main/README.md).
-* [ ] __Remote status__ has details regarding how the culture includes remote employees, how the company integrated remote workers, etc
-* [ ] __Region__ details the geographic regions in which this company employees can reside. For more details see the instructions in the [example company profile](/company-profiles/example.md#region).
-* [ ] __How to apply__ details the best approach for new applications, page on site where open position are listed, and any other help available for job hunters
+* [X] You are an employee of the company mentioned and confirm all included details are correct.
+* [X] You know your alphabet - company is listed in alphabetical order in the README.md file.
+* [X] The company directly hires employees. ** No bootcamps / freelance sites / etc**
+* [X] The company hires remote employees, or positions are available to remote workers and are clearly illustrated as such.
+* [X] A [company profile](/company-profiles/example.md) is included - This is __required__ for new additions.
+* [X] An entry has been added or edited within the [readme.md file](../../main/README.md).
+* [X] __Remote status__ has details regarding how the culture includes remote employees, how the company integrated remote workers, etc
+* [X] __Region__ details the geographic regions in which this company employees can reside. For more details see the instructions in the [example company profile](/company-profiles/example.md#region).
+* [X] __How to apply__ details the best approach for new applications, page on site where open position are listed, and any other help available for job hunters
