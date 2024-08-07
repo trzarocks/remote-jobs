@@ -370,6 +370,7 @@ Name | Website | Region
 [Impala](/company-profiles/impala.md) | https://www.getimpala.com/ | Europe
 [Impira](/company-profiles/impira.md) | https://www.impira.com/ | USA
 [Implisense](/company-profiles/implisense.md) | https://implisense.com/ | Germany
+[Inacom Information Systems](/company-profiles/inacom-information-systems.md) | https://www.inacom-sby.com | USA
 [Incsub](/company-profiles/incsub.md) | https://incsub.com/ | Worldwide
 [Infinite Red](/company-profiles/infinite-red.md) | https://infinite.red | USA, CA
 [InfluxData](/company-profiles/influxdata.md) | https://influxdata.com | USA, UK, DE, IT
